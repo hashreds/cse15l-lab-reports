@@ -1,7 +1,14 @@
 # My Website
 ## At the top
+
 *Important information*
+
+Space between my elements
+
 **Please pay attention**
+
+Remember to hit enter
+
 [Link](https://www.google.com)
 
 ![Image](https://www.archpaper.com/wp-content/uploads/2019/06/xUCSD1-645x461.jpg.pagespeed.ic.FZcMtcQH1i.jpg)
