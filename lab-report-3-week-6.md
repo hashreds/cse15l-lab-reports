@@ -34,6 +34,10 @@ Private key on my user account
 
 ![Image](lab-report-3-media\privateKey.png)
 
+Unable to push my commits to the origin, even after creating a key in my ieng6 account and adding the public key to Github.
+
+![Image](lab-report-3-media\issue.png)
+
 ## Copy whole directories with scp -r
 
 <br>
