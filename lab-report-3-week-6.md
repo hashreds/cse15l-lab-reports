@@ -18,6 +18,10 @@ Scp ommand using the alias
 
 ![Image](lab-report-3-media\scp.png)
 
+Showing the file in ieng6 after scp
+
+![Image](lab-report-3-media\showFileLocation.png)
+
 <br>
 
 ## Setup Github Access from ieng6
@@ -34,9 +38,11 @@ Private key on my user account
 
 ![Image](lab-report-3-media\privateKey.png)
 
-Unable to push my commits to the origin, even after creating a key in my ieng6 account and adding the public key to Github.
+Successfully pushing my commits to the origin
 
-![Image](lab-report-3-media\issue.png)
+![Image](lab-report-3-media\gitPush.png)
+
+[Link to the successful commit](https://github.com/hashreds/markdown-parser/commit/c3a575f2c7f79eefc2d345324c5732c0d1340982)
 
 ## Copy whole directories with scp -r
 
